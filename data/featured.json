@@ -1,0 +1,202 @@
+[
+  {
+    "title": "First Row",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Game of Thrones",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2cggagzYNJjhsJATwo/tileburnedin?v=1663a9fd5b52ee3ed81fa284122cebc9&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Westworld",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GV7xwpQNK8MJfPwEAAAG_/tileburnedin?v=184c26227cb124f2e84a73adfd28f07b&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "The Wire",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2gkAgT4oNJjhsJAUDk/tileburnedin?v=7595b426cd7448ab7e2e8e3400afdc15&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Game Change",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2vpwQOKo7DwvwIAVVm/tileburnedin?v=cf7e2768221a5e12e3c1e510d964fd22&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "The Sopranos",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2b9AHpHo7DwvwIAT4i/tileburnedin?v=579e3e51d9ea0ad9e025ef064e75861d&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Sex and the City",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2cAAPSJoNJjhsJATt6/tileburnedin?v=ca97e5069f6986738cc511a92f29e1e8&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Jurassic World",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVsMZRQpsxiqLwuIIAABF/tileburnedin?v=4caaff8981e936be364b955b3a94407a&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:not-in-a-hub&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Raised by Wolves",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX0WFcAlf5r5cuAEAAADu/tileburnedin?v=dbb03ead3530ea67ad54e18320c2f343&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:max-originals&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Young Justice",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX3ZDNQA_j8LCSgEAAAXR/tileburnedin?v=99324baf801a1509ff36bcde9a797d26&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      }
+    ]
+  },
+  {
+    "title": "Second Row",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Between The World And Me",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX3x1ugXOg5asuwEAAAAZ/tileburnedin?v=fc029f292875381f38512a0b7c21598c&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Tom & Jerry: Santa's Little Helpers",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX5NuBAHytp7CDwEAAACC/tileburnedin?v=207b1f8d46a5e1389b40e1e52994b208&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Sex and the City 2",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX5chNQ8K2Y6KYQEAAAHj/tileburnedin?v=282a5220a4739c1a48f3224fb74b1611&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:not-in-a-hub&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "DC's Stargirl",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX6A4-QarfMPDUAEAAAAo/tileburnedin?v=c572b820f8b1584a5a71da600b1f9c9b&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network:territory:adria&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Crazy Rich Asians",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX6QtHQxBD5nCwwEAAAHM/tileburnedin?v=d86e0ea7d08e433787cd6902bab21e74&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:not-in-a-hub&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Batman: The Animated Series",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX8VcRQca5sLDbAEAAAD-/tileburnedin?v=fc0f8cb3d807cf164563f01d4de66126&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network:territory:adria&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Courage the Cowardly Dog",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX8auJwgvI5c0wwEAAAAk/tileburnedin?v=9d1dfbccbe0c30cd5f7f654e5436d5ab&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Wonder Woman 1984",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX9KHPw1OIMPCJgEAAAAD/tileburnedin?v=f931bf3261119df04b997d617745d42f&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:dc-comics&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Batman: Hush",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX9jvgwxuzglRwgEAAAB2/tileburnedin?v=bf79f127930d28d38a85ac5a4cd0a372&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:dc-comics&language=en-us"
+      }
+    ]
+  },
+  {
+    "title": "Third Row",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Game of Thrones",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2cggagzYNJjhsJATwo/tileburnedin?v=1663a9fd5b52ee3ed81fa284122cebc9&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Westworld",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GV7xwpQNK8MJfPwEAAAG_/tileburnedin?v=184c26227cb124f2e84a73adfd28f07b&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "The Wire",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2gkAgT4oNJjhsJAUDk/tileburnedin?v=7595b426cd7448ab7e2e8e3400afdc15&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Game Change",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2vpwQOKo7DwvwIAVVm/tileburnedin?v=cf7e2768221a5e12e3c1e510d964fd22&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "The Sopranos",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2b9AHpHo7DwvwIAT4i/tileburnedin?v=579e3e51d9ea0ad9e025ef064e75861d&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Sex and the City",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVU2cAAPSJoNJjhsJATt6/tileburnedin?v=ca97e5069f6986738cc511a92f29e1e8&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:hbo&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Jurassic World",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GVsMZRQpsxiqLwuIIAABF/tileburnedin?v=4caaff8981e936be364b955b3a94407a&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:not-in-a-hub&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Raised by Wolves",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX0WFcAlf5r5cuAEAAADu/tileburnedin?v=dbb03ead3530ea67ad54e18320c2f343&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:max-originals&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Young Justice",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX3ZDNQA_j8LCSgEAAAXR/tileburnedin?v=99324baf801a1509ff36bcde9a797d26&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      }
+    ]
+  },
+  {
+    "title": "Fourth Row",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Between The World And Me",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX3x1ugXOg5asuwEAAAAZ/tileburnedin?v=fc029f292875381f38512a0b7c21598c&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:bhm2021&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Tom & Jerry: Santa's Little Helpers",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX5NuBAHytp7CDwEAAACC/tileburnedin?v=207b1f8d46a5e1389b40e1e52994b208&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Sex and the City 2",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX5chNQ8K2Y6KYQEAAAHj/tileburnedin?v=282a5220a4739c1a48f3224fb74b1611&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:not-in-a-hub&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "DC's Stargirl",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX6A4-QarfMPDUAEAAAAo/tileburnedin?v=c572b820f8b1584a5a71da600b1f9c9b&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network:territory:adria&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Crazy Rich Asians",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX6QtHQxBD5nCwwEAAAHM/tileburnedin?v=d86e0ea7d08e433787cd6902bab21e74&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:not-in-a-hub&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Batman: The Animated Series",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX8VcRQca5sLDbAEAAAD-/tileburnedin?v=fc0f8cb3d807cf164563f01d4de66126&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network:territory:adria&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Courage the Cowardly Dog",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX8auJwgvI5c0wwEAAAAk/tileburnedin?v=9d1dfbccbe0c30cd5f7f654e5436d5ab&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:cartoon-network&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Wonder Woman 1984",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX9KHPw1OIMPCJgEAAAAD/tileburnedin?v=f931bf3261119df04b997d617745d42f&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:dc-comics&language=en-us"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Batman: Hush",
+        "cardImageUrl": "https://art-gallery-latam.api.hbo.com/images/GX9jvgwxuzglRwgEAAAB2/tileburnedin?v=bf79f127930d28d38a85ac5a4cd0a372&size=320x180&compression=medium&protection=false&scaleDownToFit=false&productCode=hboMax&overlayImage=urn:warnermedia:brand:dc-comics&language=en-us"
+      }
+    ]
+  }
+]
